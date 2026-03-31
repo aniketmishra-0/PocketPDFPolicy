@@ -1,6 +1,6 @@
 # Privacy Policy for Pocket PDF
 
-Effective Date: [EFFECTIVE DATE]
+Effective Date: 31/April/2026
 
 Pocket PDF ("we", "our", or "the app") respects your privacy. This Privacy Policy explains how Pocket PDF handles information when you use the Android application.
 
