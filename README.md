@@ -113,7 +113,7 @@ Since the app does not collect personal data, it does not intentionally process 
 Pocket PDF is an open-source project.
 
 You can review the source code here:
-[YOUR GITHUB REPOSITORY URL]
+[[YOUR GITHUB REPOSITORY URL](https://github.com/aniketmishra-0/PocketPDF)]
 
 Because the source code is openly available, users can inspect how the app works and verify that its core PDF features are designed for local, on-device processing.
 
